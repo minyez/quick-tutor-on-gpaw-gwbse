@@ -1,5 +1,8 @@
 # 在 GPAW 中进行 GW/BSE 计算的简单教程
 
+在 deepmodeling-abacus 线上小班上做的有关 GPAW 中 GW/BSE 计算简单报告的相关计算脚本.
+报告见 [slides.pdf](slides.pdf). 欢迎讨论并提出意见与建议.
+
 ## dft
 
 `Si_gs.py`: 硅的基态计算
